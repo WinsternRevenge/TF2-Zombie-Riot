@@ -1358,7 +1358,7 @@
 	"Raigeki Extra Desc 0"
 	{
 		"en"	"-Resistance granted while charging Raigeki increases based on charge amount.\n-Raigeki takes 3s to strike once cast, during which you are stunned, but resistance is increased."
-		"ko"	"-뇌격 충전 중 부여되는 저항력이 충전량에 따라 증가\n-뇌격은 시전 후 타격까지 3초가 소요되며\n-이 기간 동안 기절 상태가 되지만 저항력이 증가"
+		"ko"	"-뇌격 충전 중 부여되는 저항력이 충전량에 따라 증가\n-뇌격은 시전 후 타격까지 3초가 소요\n-이 기간 동안 기절 상태가 되지만 저항력이 증가"
 	}
 
 	"Raigeki Desc 1"
