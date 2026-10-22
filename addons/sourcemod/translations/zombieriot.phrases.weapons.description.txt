@@ -1941,11 +1941,10 @@
 	}
 	"Grigoris Special Antidote Desc"
 	{
-		"en"	"You get an extra 350+ HP, and get 4％ dmg resistance to all sources."
+		"en"	"-Gain +350HP\n-Gain 4％ resistance to all sources"
 		"ko"	"-최대 체력 +350\n-모든 피해 저항력 +4％"
 		"it"	"Aumento della quantità di armatura per uso e tetto massimo. +150 HP\nFornisce una resistenza passiva in caso di rottura dell'armatura e aumenta con i potenziamenti dell'armatura."
 	}
-	
 	"Healthy Apple from Bob Desc"
 	{
 		"en"	"-Gain +1500 HP"
